@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'CHDownload_Example' do
+  pod 'CHDownload', :path => '../'
+
+  target 'CHDownload_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  end
+end

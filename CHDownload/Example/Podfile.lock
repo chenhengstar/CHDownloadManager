@@ -1,0 +1,22 @@
+PODS:
+  - CHDownload (0.1.0)
+  - Expecta (1.0.5)
+  - Specta (1.0.6)
+
+DEPENDENCIES:
+  - CHDownload (from `../`)
+  - Expecta
+  - Specta
+
+EXTERNAL SOURCES:
+  CHDownload:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CHDownload: 0d891f289859d17fc2cdfb72275fd91ef479b76c
+  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
+
+PODFILE CHECKSUM: 420830a526700f860d42322337b142ab0b5a5ab9
+
+COCOAPODS: 1.0.1

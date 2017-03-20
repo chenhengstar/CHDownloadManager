@@ -1,0 +1,6 @@
+framework module CHDownload {
+  umbrella header "CHDownload-umbrella.h"
+
+  export *
+  module * { export * }
+}

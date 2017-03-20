@@ -1,0 +1,22 @@
+{
+  "name": "CHDownload",
+  "version": "0.1.0",
+  "summary": "A short description of CHDownload.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenhengstar/CHDownload",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenhengstar": "240523328@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/chenhengstar/CHDownload.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CHDownload/Classes/**/*"
+}

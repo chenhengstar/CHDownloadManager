@@ -1,0 +1,6 @@
+framework module Pods_CHDownload_Example {
+  umbrella header "Pods-CHDownload_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
